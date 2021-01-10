@@ -8,6 +8,10 @@ public class Program {
 		System.out.println("Bom dia!");	
 		System.out.println("Boa Tarde!");
 		
+		int n  = 5;
+		if (n < 10) {
+			System.out.println("Concerteza");
+		}
 	}
 
 }
